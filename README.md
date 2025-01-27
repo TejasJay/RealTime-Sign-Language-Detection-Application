@@ -10,5 +10,5 @@
 - Either execute all the cells or Execute the last 4 cells in the ipynb notebook (loads the model for detection)
 - The last code cell opens your webcam to test the application in realtime
 - Test the application using the above sign language and see if the system detects accurately
-- To exit out of the application, interupt your kernal
+
 
